@@ -1,5 +1,5 @@
 # Crypto Tracker Clone
-> Live demo [https://cryptotracker-a980a.web.app](https://cryptotracker-a980a.web.app.). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [https://cryptotracker-a980a.web.app](https://cryptotracker-a980a.web.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Technologies Used
 - React.js
